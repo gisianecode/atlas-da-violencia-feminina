@@ -38,14 +38,5 @@ Para elevar o nível técnico e a utilidade da plataforma, as seguintes funciona
 
 ## 📄 Licença
 Este projeto está sob a licença MIT. Consulte o arquivo LICENSE para obter mais detalhes.
-```
 
-### 💡 Dica extra para fechar com chave de ouro:
-Depois de salvar esse texto no arquivo `README.md` na pasta raiz, execute estes três comandos rápidos no terminal para subir a documentação atualizada para o seu GitHub:
-
-```bash
-git add README.md
-git commit -m "docs: adiciona readme completo com roadmap e canais de ajuda"
-git push
-
-```
+![imagem 1](images/captura11.png)
