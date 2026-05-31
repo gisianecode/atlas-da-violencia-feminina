@@ -1,0 +1,23 @@
+[
+  {
+    "ano": 2025,
+    "estado": "RJ",
+    "cidade": "Rio de Janeiro",
+    "tipo_violencia_previa": "Psicológica",
+    "casos": 145
+  },
+  {
+    "ano": 2025,
+    "estado": "SP",
+    "cidade": "São Paulo",
+    "tipo_violencia_previa": "Física",
+    "casos": 210
+  },
+  {
+    "ano": 2024,
+    "estado": "RJ",
+    "cidade": "Niterói",
+    "tipo_violencia_previa": "Verbal",
+    "casos": 85
+  }
+]

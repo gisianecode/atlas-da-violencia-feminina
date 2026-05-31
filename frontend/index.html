@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dashboard - Violência Contra a Mulher no Brasil</title>
+    <link rel="stylesheet" href="css/style.css">
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+</head>
+<body>
+    <header>
+        <div class="header-container">
+            <h1>Monitoramento de Feminicídios no Brasil</h1>
+            <p>Análise de dados reais e indicadores de violência prévia</p>
+        </div>
+    </header>
+
+    <!-- NOVA SEÇÃO DE AJUDA -->
+    <section class="alerta-ajuda-container">
+        <div class="alerta-card">
+            <div class="alerta-icone">⚠️</div>
+            <div class="alerta-texto">
+                <h3>Precisa de ajuda ou conhece alguém em situação de violência?</h3>
+                <p>A denúncia pode ser feita de forma anônima e gratuita de qualquer telefone.</p>
+            </div>
+            <a href="tel:180" class="botao-ligar">
+                Ligar para o Ligue 180
+            </a>
+        </div>
+    </section>
+
+    <main class="dashboard-container">
+        <!-- O resto do seu código de filtros e gráficos continua igual aqui para baixo -->
+
+    <main class="dashboard-container">
+        <section class="filtros-card">
+            <label for="filtro-ano">Filtrar por Ano:</label>
+            <select id="filtro-ano">
+                <option value="">Todos os Anos</option>
+                <option value="2025">2025</option>
+                <option value="2024">2024</option>
+            </select>
+        </section>
+
+        <section class="graficos-grid">
+            <div class="card-grafico">
+                <h3>Casos por Tipo de Violência Prévia</h3>
+                <canvas id="graficoViolencia"></canvas>
+            </div>
+            <div class="card-grafico">
+                <h3>Distribuição por Estado</h3>
+                <canvas id="graficoEstados"></canvas>
+            </div>
+        </section>
+    </main>
+
+    <script src="js/app.js"></script>
+</body>
+</html>
