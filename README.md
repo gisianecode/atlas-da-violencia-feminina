@@ -35,7 +35,7 @@ Para elevar o nível técnico e a utilidade da plataforma, as seguintes funciona
  * **Migração para API Pública:** Substituição da base de dados mockada por integrações diretas com APIs governamentais de dados abertos.
 
  * **Autenticação e Painel Administrativo:** Criação de um sistema seguro de login para que organizações parceiras e ONGs possam reportar ou atualizar dados diretamente no sistema.
- 
+
 ## 📄 Licença
 Este projeto está sob a licença MIT. Consulte o arquivo LICENSE para obter mais detalhes.
 ```
