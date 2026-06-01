@@ -17,7 +17,7 @@ Um dashboard interativo e dinâmico focado no monitoramento e análise de dados 
 - **Canais de Emergência (Ligue 180):** Integração com sistemas de discagem rápida direcionados à Central de Atendimento à Mulher, permitindo acionamento imediato e intuitivo em dispositivos móveis ou computadores configurados para chamadas.
 
 ## 🛠️ Como Executar o Projeto
- Acesse:
+ Acesse: https://github.com/gisianecode/atlas-da-violencia-feminina.git
 
 ## 🔮 Melhorias Futuras (Roadmap de Evolução)
 Para elevar o nível técnico e a utilidade da plataforma, as seguintes funcionalidades estão planejadas para as próximas iterações do ecossistema:
