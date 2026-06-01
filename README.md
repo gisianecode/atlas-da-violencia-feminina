@@ -16,18 +16,6 @@ Um dashboard interativo e dinâmico focado no monitoramento e análise de dados 
 - **Filtros Dinâmicos:** Filtragem de dados por período e anos diretamente consumidos da API Flask.
 - **Canais de Emergência (Ligue 180):** Integração com sistemas de discagem rápida direcionados à Central de Atendimento à Mulher, permitindo acionamento imediato e intuitivo em dispositivos móveis ou computadores configurados para chamadas.
 
-## 🛠️ Como Executar o Projeto
-Aqui está o arquivo **README.md** completo, estruturado e pronto para brilhar no seu GitHub. Ele já inclui a nova seção do canal de ajuda (Ligue 180), o link para o site no topo e a lista de melhorias futuras.
-Basta criar um arquivo chamado README.md na raiz do seu projeto, colar o código abaixo e substituir onde diz SEU_USUARIO e SEU_REPOSITORIO pelos seus dados do GitHub:
-```markdown
-# 📊 Atlas da Violência Feminina no Brasil
-
-Um dashboard interativo e dinâmico focado no monitoramento e análise de dados reais de feminicídio e indicadores de violência prévia contra a mulher no Brasil. O projeto foi desenhado com foco em utilidade pública, acessibilidade e alto impacto social.
-
-## 🔗 Demonstração em Tempo Real
-👉 **[Acesse o Dashboard Online (Live Demo)](https://SEU_USUARIO.github.io/SEU_REPOSITORIO)** *(Substitua por seu link final)*
-
----
 
 ## 🚀 Tecnologias Utilizadas
 
