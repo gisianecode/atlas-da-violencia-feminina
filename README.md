@@ -38,8 +38,8 @@ Antes de começar, você vai precisar ter o Python instalado em sua máquina.
 
 ### 1. Clonar o repositório
 ```bash
-git clone [https://github.com/SEU_USUARIO/SEU_REPOSITORIO.git](https://github.com/SEU_USUARIO/SEU_REPOSITORIO.git)
-cd SEU_REPOSITORIO
+git clone https://github.com/gisianecode/atlas-da-violencia-feminina.git
+cd atlas-da-violencia-feminina
 
 ```
 ### 2. Configurar o Backend
